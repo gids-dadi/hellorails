@@ -1,24 +1,48 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# hellorails
 
-Things you may want to cover:
+Basic setup of rails
 
-* Ruby version
+## Built With
 
-* System dependencies
+- rails
 
-* Configuration
+## Live Demo
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+- Copy this link `https://github.com/gids-dadi/hellorails.git`.
+- Get the directory that you want to clone the repository.
+- Open the command prompt in this directory.
+- Write `https://github.com/gids-dadi/hellorails.git`.
+- Go to the repository folder in your command prompt `hellorails`.
+- Run `rails server`
+- Go to `http://localhost:3000/` on browser
 
-* Services (job queues, cache servers, search engines, etc.)
+## Built by
 
-* Deployment instructions
+Gideon Dadi
 
-* ...
+- Linkedin [@GideonDadi](https://www.linkedin.com/feed/)
+- GitHub: [@gids_dadi](https://github.com/gids-dadi)
+- Twitter: [@Dadi_AG](https://twitter.com/Dadi_AG)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+##Acknowlegement
+Anderi
+
+## 📝 License
+
+None
