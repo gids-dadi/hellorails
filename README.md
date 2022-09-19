@@ -8,7 +8,6 @@ Basic setup of rails
 
 - rails
 
-## Live Demo
 
 ## Getting Started
 
